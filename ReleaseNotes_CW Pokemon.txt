@@ -1,0 +1,38 @@
+CW Pokemon固件版本发行说明
+Release Notes for CW Pokemon Firmware
+
+
+
+
+2021.07.05 CW Pokemon Ver：5.00
+(适用于CW Pokemon硬件版本2.60及以上)
+---------------------------------------------------------------
+版本说明：
+    正式发布版本。
+
+Release notes：
+  Official release.
+
+
+
+本版升级文件说明：
+---------------------------------------------------------------
+用户升级固件                         （必须刷入）
+系统资源文件                         （必须刷入）
+开机画面文件                         （无需刷入）
+四合一字库文件                       （无需刷入）
+---------------------------------------------------------------
+User Upgrade Firmware                (Must programming)
+System resource files                (Must programming)
+Files of boot screen                 (no need to programming)
+4 in 1 font file                     (no need to programming)
+
+
+
+
+
+
+
+
+
+
