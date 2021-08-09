@@ -1,11 +1,11 @@
 固件升级说明
 
 
-版本号：CW Pokemon Mini(Pro) V5.00
+版本号：CW Pokemon Mini(Pro) V5.01
 
 
 用户升级固件       （必须刷入）
-系统资源文件       （必须刷入）
+系统资源文件       （无须刷入）
 开机画面文件       （无需刷入）
 四合一字库文件     （无需刷入）
 
@@ -33,7 +33,7 @@ Version Number:  CW Pokemon Mini(Pro) V5.00
 
 
 User Upgrade Firmware                (Must programming)
-System resource files                (Must programming)
+System resource files                (no need to programming)
 Files of boot screen                 (no need to programming)
 4 in 1 font file                     (no need to programming)
 

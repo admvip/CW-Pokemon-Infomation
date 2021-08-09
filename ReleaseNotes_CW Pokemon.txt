@@ -1,5 +1,54 @@
-CW Pokemon固件版本发行说明
-Release Notes for CW Pokemon Firmware
+CW Pokemon固件版本发行说明（迷你版和专业版通用）
+Release Notes for CW Pokemon Firmware(Both Mini and Pro)
+
+
+
+2021.08.09 CW Pokemon Ver：5.01
+(适用于CW Pokemon硬件版本2.60及以上)
+---------------------------------------------------------------
+版本说明：
+    正式发布版本。
+
+Release notes：
+  Official release.
+
+本版升级文件说明：
+---------------------------------------------------------------
+用户升级固件                         （必须升级）
+系统资源文件                         （无需升级）
+开机画面文件                         （无需升级）
+四合一字库文件                       （无需升级）
+---------------------------------------------------------------
+User Upgrade Firmware                (Must programming)
+System resource files                (no need to programming)
+Files of boot screen                 (no need to programming)
+4 in 1 font file                     (no need to programming)
+
+
+固件升级记录：
+	软件取消PTT功能，实现3.5mm直通音频线控制外部短波电台键控信号。
+	增加通过数据线串口连接，使用手机或电脑设置快捷键内容。
+	修正了返回到菜单标题栏不正确的bug。
+	修正了自定义字符清除后坐标没有归零的bug。
+    增加PS/2键盘接入功能，在电键类型设置为键盘模式时，在电键接口可连接一个标准PS/2键盘，3.5mm插头顶端一节接键盘的CLK，中间段接键盘的DATA，根部接地。键盘F1-F8对应8组快捷信息。
+	使用键盘进行菜单操作和快捷键内容编辑、设置。
+
+键盘功能说明：
+a-z 0-9： 普通功能
+大小写键：切换字符大小写
+F1-F8：主控器内置8组自动呼叫
+Shift+F1-F4：模拟主控器F1-F4单击动作
+Ctrl+F1-F4：模拟主控器F1-F4长按动作
+PgUp：码速+，模拟主控器电源键右拨动
+PgDn：码速-，模拟主控器电源键左拨动
+上箭头：码速+，模拟主控器电源键右拨动
+下箭头：码速-，模拟主控器电源键左拨动
+左箭头：F4退出功能
+右箭头：电源键单击，进入、确定功能
+ESC键： 终止发送或停止自动呼叫
+退格键：在快捷键编辑窗口，可以移动光标退格
+Shift+ESC键：主控器关机
+
 
 
 
@@ -13,14 +62,12 @@ Release Notes for CW Pokemon Firmware
 Release notes：
   Official release.
 
-
-
 本版升级文件说明：
 ---------------------------------------------------------------
-用户升级固件                         （必须刷入）
-系统资源文件                         （必须刷入）
-开机画面文件                         （无需刷入）
-四合一字库文件                       （无需刷入）
+用户升级固件                         （必须升级）
+系统资源文件                         （必须升级）
+开机画面文件                         （无需升级）
+四合一字库文件                       （无需升级）
 ---------------------------------------------------------------
 User Upgrade Firmware                (Must programming)
 System resource files                (Must programming)
