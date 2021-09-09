@@ -1,0 +1,57 @@
+固件升级说明
+
+
+版本号：CW Pokemon Mini(Pro) V5.02
+
+
+用户升级固件       （必须刷入）     MD5: E86C16BB066B9607EA363E2B92F06BA1
+系统资源文件       （无须刷入）     MD5: 0EE8C22FCD6A22689756CCF2979EE7D2
+开机画面文件       （无需刷入）     MD5: ADCF717438BED4DEB508AACF71E10E53
+四合一字库文件     （无需刷入）     MD5: 5A3C6400547F9792CC6BE6C77F5E936C
+
+
+
+A000014.bin        用户升级固件
+F000000.bin        开机画面文件（用户可自定义，非升级必须文件，看ReadMe说明操作）
+F0000C0.bin        系统资源文件（非升级必须文件，看ReadMe说明操作）
+F003800.bin        四合一中文字库文件（非升级必须文件，看ReadMe说明操作）
+
+
+固件升级教程
+1.按住F1和F4键的同时开机，LED亮后松开按键；
+2.确认屏幕显示升级提示信息，如果没有升级信息，请重复步骤1操作；
+3.使用数据线连接设备到电脑，电脑提示发现一个名为HAM MODULE的移动存储设备;
+4.根据升级包的说明，将相应的升级文件复制移动存储设备中，复制前，请确认存储设备内的TXT文件名为Ready.txt，文件复制完成后，移动存储设备会刷新，打开后TXT文件名将变为Success.txt，表示文件复制已完成。一次只能复制一个文件，复制下一个文件前，需要长按F4，手动复位移动存储设备一次，待存储设备内的TXT文件名为Ready.txt后，再继续复制其它的升级文件(文件名不得擅自更改)；
+5.所需升级文件复制完毕后，长按电源键或者使用细针按压复位孔内的复位键关闭设备，移除USB数据线，等待3-5秒后重启设备，完成升级工作。
+
+注意：如果升级失败，开机直接显示升级界面，无法进入用户界面，请关闭机器，按住F1和F4键的同时开机，重新进入升级界面，在升级步骤(4)中，尝试刷新全部升级文件。刷新的顺序是F003800.bin --> F0000C0.bin --> F000000.bin --> A000014.bin。
+
+-------------------------------------------------------------------------------------
+Upgrade instructions
+
+
+Version Number:  CW Pokemon Mini(Pro) V5.02
+
+
+User Upgrade Firmware                (Must programming)
+System resource files                (no need to programming)
+Files of boot screen                 (no need to programming)
+4 in 1 font file                     (no need to programming)
+
+
+
+A000014.bin                          user upgrades firmware
+F000000.bin                          boot screen file (user can be customized, not a necessary file to upgrade, see README operation)
+F0000c0.bin                          system resource file (not required for upgrade, see README operation)
+F003800.bin                          4-in-1 Chinese character library file (not a required file for upgrade, see README operation)
+
+
+Firmware Upgrade Tutorial
+1. Press F1 and F4 keys while starting the machine, and release the button when the LED lights up;
+2. Make sure the screen displays the upgrade message. If there is no upgrade message, repeat Step 1;
+3. Connect the device to the computer with the data cable, and the computer prompts to find a mobile storage device named Ham Module;
+4. Copy the upgrade file to the mobile storage device according to the description of the upgrade package. Before replication, ensure that the TXT file name of the storage device is ready.TXT. After the file is copied, the mobile storage device will refresh the file. TXT file name changes to success.TXT, indicating that file replication is complete. Only one file can be copied at a time. Before copying the next file, hold down F4 to manually reset the mobile storage device once. After the TXT file in the storage device is named ready.TXT, copy other upgrade files (the file names cannot be changed without permission).
+5. After the required upgrade file is copied, hold down the power button or press the reset button in the reset hole with a pin to shut down the device, remove the USB data cable, and restart the device after 3-5 seconds to complete the upgrade.
+
+Note: If the upgrade fails, the upgrade page is displayed upon startup and the user page cannot be accessed. In this case, refresh all upgrade files in Step 4. The flush order is F003800.bin --> F0000C0.bin --> F000000.bin --> A000014. Bin.
+

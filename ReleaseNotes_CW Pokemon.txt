@@ -3,6 +3,41 @@ Release Notes for CW Pokemon Firmware(Both Mini and Pro)
 
 
 
+单字母、单数字、字母数字混合、自定义字符等模式改为每组4个字符，呼号和通信短语每组字符数不变。
+
+2021.09.09 CW Pokemon Ver：5.02
+(适用于CW Pokemon硬件版本2.60及以上)
+---------------------------------------------------------------
+版本说明：
+    正式发布版本。
+
+Release notes：
+  Official release.
+
+本版升级文件说明：
+---------------------------------------------------------------
+用户升级固件                         （必须升级）
+系统资源文件                         （无需升级）
+开机画面文件                         （无需升级）
+四合一字库文件                       （无需升级）
+---------------------------------------------------------------
+User Upgrade Firmware                (Must programming)
+System resource files                (no need to programming)
+Files of boot screen                 (no need to programming)
+4 in 1 font file                     (no need to programming)
+
+
+固件升级记录：
+	修改单字母、单数字、字母数字混合、自定义字符等模式，由每组5个字符改为每组4个字符，以符合用户习惯。呼号和通信短语每组字符数不变。
+	增加了CW自动键Iambic A/B模式选择，原来只有B模式。用户可在电键设置菜单下手动修改，系统初始化默认为Iambic B模式。
+
+Firmware upgrade records:
+	Change the single-letter, single-digit, alphanumeric, and custom character modes from 5 to 4 to meet user habits. Callsigns and communication phrases have the same number of characters per group.
+	Added CW auto key Iambic A/B mode selection instead of B mode. Users can manually modify it under the key setting menu. The default system initialization mode is Iambic B.
+
+
+
+
 2021.08.09 CW Pokemon Ver：5.01
 (适用于CW Pokemon硬件版本2.60及以上)
 ---------------------------------------------------------------
