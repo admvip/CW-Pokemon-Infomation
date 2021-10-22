@@ -1,0 +1,26 @@
+ReleaseNotes:
+
+口袋精灵系列升级固件更新至V5.02.31版。新增内容如下:
+
+1.自动键增加lambic A/B模式选择
+2.系统设置新增日期时间设置（记录电台日志用）
+3.修复CW控制bug，CW输出接口可通过直连线连接短波电台电键口
+4.增加自动重复呼叫单元设置功能，重复时间可调，可用于自动呼叫或信标功能
+5.增加通联日志录入，浏览，导出功能，日志为标准adi格式，导出的日志文件可供其它软件导入处理日志录入、浏览支持电键或电脑键盘操作
+6。系统新增F3快捷区为日志操作专区
+7.听抄练习新增Koch法练习模块，共计40节听抄训练课程
+8.新增一个听抄游戏模块-纸牌屋，用于休闲听抄训练，游戏结束附错误率统计
+
+
+
+
+Pocket Sprite firmware updated to version V5.02.31.  The new contents are as follows:  
+ 
+1. Auto button Adds lambic A/B mode selection  
+2. System Settings Added date and time Settings (for recording radio station logs)  
+3. Fix CW control bug, CW output interface can connect shortwave radio key through direct connection  
+4. Add automatic repeat call unit setting function, the repeat time is adjustable, can be used for automatic call or beacon function  
+5. Add log entry, browse and export functions. The log is in standard ADI format, and the exported log file can be imported by other software to handle log entry and browse  
+6.  The SYSTEM added the F3 shortcut area as the log operation area  
+7. Koch method practice module is added, with a total of 40 listening and copying training courses  
+8. A new listening and copying game module - House of Cards, used for casual listening and copying training, with error rate statistics at the end of the game  

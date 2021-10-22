@@ -1,0 +1,4 @@
+该版本的资源包进行了修订，升级时需要先刷F0000C0.bin资源包，写入成功后长按F4复位USB，再刷A000014.bin主程序固件包。
+
+
+The resource package of this version has been revised. During the upgrade, you need to brush the f0000c0. bin resource package first, press F4 to reset the USB, and then brush the a000014.bin main program firmware package.  
