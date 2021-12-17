@@ -3,7 +3,50 @@ Release Notes for CW Pokemon Firmware(Both Mini and Pro)
 
 
 
-单字母、单数字、字母数字混合、自定义字符等模式改为每组4个字符，呼号和通信短语每组字符数不变。
+2021.12.17 CW Pokemon Ver：5.03
+(适用于CW Pokemon硬件版本2.60及以上)
+---------------------------------------------------------------
+版本说明：
+    正式发布版本。
+
+Release notes：
+  Official release.
+
+本版升级文件说明：
+---------------------------------------------------------------
+用户升级固件                         （必须升级）
+开机画面文件                         （无需升级）
+系统资源文件                         （必须升级）
+四合一字库文件                       （无需升级）
+---------------------------------------------------------------
+User Upgrade Firmware                (Must programming)
+Files of boot screen                 (no need to programming)
+System resource files                (Must programming)
+4 in 1 font file                     (no need to programming)
+
+
+固件升级记录：
+	修复跟报训练字符重复发送的问题；
+	增加自动定时呼叫和信标功能；
+	增加开机时间显示功能；
+	开机时间可设置本地时间或UTC时间，用于电台日志记录，关机不保存；
+	增加电台日志记录、查看、导出功能；
+	增加Koch训练模块；
+	增加一个听抄纸牌游戏；
+
+Firmware upgrade records:
+	Repeated sending of training characters with reports
+	Add automatic timing call and beacon functions;
+	Add startup time display function;
+	Power-on time Can be set to local time or UTC time for radio log recording. Power-off is not saved.
+	Add radio log recording, view, export function;
+	Add Koch training module;
+	Added a copy card game;
+
+
+
+
+
 
 2021.09.09 CW Pokemon Ver：5.02
 (适用于CW Pokemon硬件版本2.60及以上)
