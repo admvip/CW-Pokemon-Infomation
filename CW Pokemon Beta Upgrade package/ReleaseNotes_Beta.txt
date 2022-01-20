@@ -1,0 +1,9 @@
+/***  Release Notes for BETA  ***/
+
+
+2022/01/20     V5.03.04
+修复了听抄训练结果符合时，第一页以后数据错位8行的bug；
+修复了跟报训练字符0不显示的bug。
+
+Fixed a bug where 8 lines of data are misplaced after the first page when the results of listening and copying training match.  
+Fixed a bug where training character 0 would not be displayed.  
