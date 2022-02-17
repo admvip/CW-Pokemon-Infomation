@@ -1,5 +1,10 @@
 /***  Release Notes for BETA  ***/
 
+2022/02/14     V5.03.05
+修复了通联日志使用电键录入时，最后一个字符被空格覆盖的bug。
+
+Fixed a bug where the last character was overwritten by a space when the log was entered using a key.
+
 
 2022/01/20     V5.03.04
 修复了听抄训练结果符合时，第一页以后数据错位8行的bug；
