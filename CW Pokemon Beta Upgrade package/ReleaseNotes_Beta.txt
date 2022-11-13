@@ -1,7 +1,14 @@
 /***  Release Notes for BETA  ***/
 
+2022/11/13     V5.03.07
+修复了随机生成电码报底重复的bug；听抄练习开始前增加3个字母V作为练习前导符。
+Fixed the bug of randomly generating code bottom repeats. Add three letters "V" as a lead before the listening and copying exercise begins.
+
+
 2022/10/23     V5.03.06
 修复了随机生成电码报底重复的bug；修改英文数字0显示时添加斜杠，以便跟字母O区分开来；增加参数设置时，当前设置内容反色显示功能。
+
+Fixed the bug of randomly generating code bottom repeats. Change the display of English number 0 to add a slash to distinguish it from the letter O; When adding parameter Settings, the current setting of the contents of the reverse color display function.
 
 2022/02/14     V5.03.05
 修复了通联日志使用电键录入时，最后一个字符被空格覆盖的bug。
