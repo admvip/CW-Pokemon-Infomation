@@ -1,5 +1,10 @@
 /***  Release Notes for BETA  ***/
 
+2023/07/14     V5.03.08
+修复Iambic A模式下，电键点划交换后电键控制异常的bug；CW发报练习中，在混合模式下增加"/ ? ="三个通联常用字符，同时提高了其出现的几率。
+Fixed A bug in Iambic A mode where the key control was abnormal after the key dot swap.
+In the CW Posting exercise, add "/?="in mixed mode. Three commonly used characters are linked, while increasing the probability of their occurrence.
+
 2022/11/13     V5.03.07
 修复了随机生成电码报底重复的bug；听抄练习开始前增加3个字母V作为练习前导符。
 Fixed the bug of randomly generating code bottom repeats. Add three letters "V" as a lead before the listening and copying exercise begins.
