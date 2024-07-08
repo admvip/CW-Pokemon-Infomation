@@ -1,5 +1,9 @@
 /***  Release Notes for BETA  ***/
 
+2024/07/08     V5.03.09
+在跟报练习模式下，增加输入错误超过3次自动跳转下一个字符功能，避免用户在一个字符上反复练习，无法中断退出。
+In the step by step mode, add the function of automatically jumping to the next character when the input error is more than 3 times, so as to prevent the user from repeatedly practicing on a character and unable to interrupt the exit.
+
 2023/07/14     V5.03.08
 修复Iambic A模式下，电键点划交换后电键控制异常的bug；CW发报练习中，在混合模式下增加"/ ? ="三个通联常用字符，同时提高了其出现的几率。
 Fixed A bug in Iambic A mode where the key control was abnormal after the key dot swap.
