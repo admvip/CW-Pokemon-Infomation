@@ -1,5 +1,9 @@
 /***  Release Notes for BETA  ***/
 
+2024/08/07     V5.03.10
+修复了跟报练习中电键输入错误3次后，下一个新字符会重复显示上一个错误字符的bug。
+Fixed a bug in the step by step mode where the next new character would repeat the previous wrong character after 3 key input errors.
+
 2024/07/08     V5.03.09
 在跟报练习模式下，增加输入错误超过3次自动跳转下一个字符功能，避免用户在一个字符上反复练习，无法中断退出。
 In the step by step mode, add the function of automatically jumping to the next character when the input error is more than 3 times, so as to prevent the user from repeatedly practicing on a character and unable to interrupt the exit.
