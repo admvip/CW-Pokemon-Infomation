@@ -1,4 +1,8 @@
 /***  Release Notes for BETA  ***/
+2024/12/28     V5.03.11
+修正随机生成电码有重复几率的bug。
+Fixed a bug where randomly generated codes had a chance to be repeated.
+
 
 2024/08/07     V5.03.10
 修复了跟报练习中电键输入错误3次后，下一个新字符会重复显示上一个错误字符的bug。
