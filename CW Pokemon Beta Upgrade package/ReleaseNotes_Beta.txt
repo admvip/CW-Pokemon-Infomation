@@ -1,5 +1,9 @@
 /***  Release Notes for BETA  ***/
 
+2025/01/28     V5.03.13
+修正跟报练习中，错误超过3次后，错误字符会在下一个字符中重复显示一次的bug    V2.63硬件主板安装IPS屏，主程序为2.63主板显示驱动做了适配，可以兼容全系列主板。
+Fixed the bug that after the error was more than 3 times, the wrong character would be repeated in the next character V2.63 hardware motherboard installed IPS screen, and the main program was adapted to the 2.63 motherboard display driver, which can be compatible with all series of motherboards.  
+
 2024/08/07     V5.03.10
 修复了跟报练习中电键输入错误3次后，下一个新字符会重复显示上一个错误字符的bug。
 Fixed a bug in the step by step mode where the next new character would repeat the previous wrong character after 3 key input errors.
